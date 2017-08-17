@@ -8,7 +8,7 @@ public class Application {
 
     // method main(): ALWAYS the APPLICATION entry point
     public static void main (String[] args) {
-    	System.out.println ("Starting Joe's Application");
+    	System.out.println ("Starting Joe's Application 8/16 10:20pm");
 	Application app = new Application();
     }
 }
